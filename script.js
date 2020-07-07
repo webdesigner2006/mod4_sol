@@ -11,4 +11,5 @@ var firstLetter = ((names[i]).charAt(0)).toLowerCase();
      window.helloSpeaker.speak(names[i]);
   }
 }
-})(window);
+}
+(window);
